@@ -57,8 +57,5 @@ and more !
 <br>
 <br>
 
-**Let's Connect:**
-<br> 
-Portfolio: [portfolio-amine-ten.vercel.app](https://portfolio-amine-ten.vercel.app/)
-<br>
+**Contact Me at:**
 Email: aminemefti@hotmail.com
