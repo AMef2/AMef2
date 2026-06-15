@@ -1,19 +1,36 @@
 # About-Me
 Hi, I'm Amine ! I'm a Third-year **Computer Engineering student at Concordia**. I love hardware as much as software, so my projects range from building ticketing websites to custom hovercrafts.
 
-**My Team Projects:** 
+**My Team Projects:**
 
-Ticketing Platform: A full-stack web app for event management. [Watch the Demo 📺](https://youtu.be/JCY2xazD2kg) 
+**SeatFinder:** End-to-end IoT system tracking study room availability using an ESP32 WROOM, HLK-LD2450 mmWave Radar, and Firebase. This 3-seat micro-zone prototype was supported by a Python simulation for optimal sensor placement.
+
+<div align="center">
+  <img src=".github/images/ESP32HowItLooksInside.jpg" height="220" />
+  <img src=".github/images/SimulationPlot.png" height="220" />
+  <br>
+  <sup>ESP32 hardware enclosure (left) and Python simulation plot for sensor coverage optimization (right)</sup>
+</div>
 <br>
+<div align="center">
+  <img src=".github/images/SeatFinderLogin.jpg" height="250" />
+  <img src=".github/images/SeatFinderMainActivity.jpg" height="250" />
+  <br>
+  <sup>Android mobile application interface (Login and Main Activity dashboards)</sup>
+</div>
 <br>
-Custom Hovercraft: A deep dive into hardware and motor control. 
+
+**Ticketing Platform:** A full-stack web app for event management. [Watch the Demo 📺](https://youtu.be/JCY2xazD2kg) 
+
+**Custom Hovercraft:** A deep dive into hardware and motor control, built from scratch with custom-made parts.
+
 <div align="center">
   <img src=".github/images/HoverCraft1.jpg" width="31%" />
   <img src=".github/images/HoverCraft2.jpg" width="31%" />
   <img src=".github/images/HoverCraft3.jpg" width="31%" />
 </div>
 
-**What I've Been Building (personal projects)**:
+**What I've Been Building (personal projects):**
 
 A discord Bot for my own server (Python)
 <br>
@@ -24,7 +41,7 @@ A Retro 2D Space shooter game (C++)
 and more !
 <br>
 <br>
-<br>
+
 Also,
 <br> 
 You can contact me at:
