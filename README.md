@@ -22,15 +22,30 @@ Hi, I'm Amine ! I'm a Third-year **Computer Engineering student at Concordia**. 
 
 **Ticketing Platform:** A full-stack web app for event management. [Watch the Demo 📺](https://youtu.be/JCY2xazD2kg) 
 
+**TaskSplit:** An AI-driven productivity app that leverages generative AI APIs to automatically decompose complex academic assignments into manageable, trackable steps with built-in focus sessions.
+
+<div align="center">
+  <img src=".github/images/TaskSplit1.png" height="360" />
+  <img src=".github/images/TaskSplit1Upload2.png" height="360" />
+  <img src=".github/images/TaskSplitAnalytics.png" height="360" />
+  <img src=".github/images/TaskSplitAnalytics2.png" height="360" />
+  <br>
+  <sup>TaskSplit UI screenshots: Project Dashboard (far left), 'New Assignment' view (center left), and comprehensive 'Your Progress' analytics (overview and history, right).</sup>
+</div>
+<br>
+
 **Custom Hovercraft:** A deep dive into hardware and motor control, built from scratch with custom-made parts.
 
 <div align="center">
-  <img src=".github/images/HoverCraft1.jpg" width="31%" />
-  <img src=".github/images/HoverCraft2.jpg" width="31%" />
-  <img src=".github/images/HoverCraft3.jpg" width="31%" />
+  <img src=".github/images/HoverCraft1.jpg" width="25%" />
+  <img src=".github/images/HoverCraft2.jpg" width="25%" />
+  <img src=".github/images/HoverCraft3.jpg" width="25%" />
 </div>
+<br>
 
 **What I've Been Building (personal projects):**
+
+
 
 A discord Bot for my own server (Python)
 <br>
