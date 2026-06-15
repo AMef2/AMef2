@@ -43,7 +43,7 @@ Hi, I'm Amine ! I'm a Third-year **Computer Engineering student at Concordia**. 
   <img src=".github/images/TaskSplitAnalytics.png" height="280" />
   <img src=".github/images/TaskSplitAnalytics2.png" height="280" />
   <br>
-  <sup>TaskSplit UI screenshots: Project Dashboard (far left), 'New Assignment' view (center left), and comprehensive 'Your Progress' analytics (overview and history, right).</sup>
+  <sup>TaskSplit UI screenshots: Project Dashboard (far left), 'New Assignment' (center left), and comprehensive 'Your Progress' analytics (overview and history, right).</sup>
 </div>
 <br>
 
